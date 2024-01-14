@@ -8,7 +8,6 @@ Early diagnosis of Parkinson’s disease using machine learning algorithms
 Link to the paper:  
 https://pubmed.ncbi.nlm.nih.gov/32028195/
 
-
 Group number:17
 
 Individual Submitter:
